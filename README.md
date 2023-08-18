@@ -3,8 +3,8 @@ This project was made with React JS, Tailwin CSS and MUI.
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [Tailwind CSS](https://tailwindcss.com/) and [Material UI](https://mui.com/material-ui/). 
-Deployed [here](https://didar-weather.netlify.app/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [Tailwind CSS](https://tailwindcss.com/) and [Material UI](https://mui.com/material-ui/). \
+**Deployed [here](https://didar-weather.netlify.app/).**
 
 ## Available Scripts
 
